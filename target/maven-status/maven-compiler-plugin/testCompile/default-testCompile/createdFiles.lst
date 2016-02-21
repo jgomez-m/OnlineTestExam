@@ -1,0 +1,7 @@
+com\crossover\onlinetestexam\model\dao\CandidateDaoImplTest.class
+com\crossover\onlinetestexam\model\dao\QuestionDaoImplTest.class
+com\crossover\onlinetestexam\configuration\HibernateTestConfiguration.class
+com\crossover\onlinetestexam\service\QuestionServiceImplTest.class
+com\crossover\onlinetestexam\service\CandidateServiceImplTest.class
+com\crossover\onlinetestexam\model\dao\EntityDaoImplTest.class
+com\crossover\onlinetestexam\model\dao\TestDaoImplTest.class
